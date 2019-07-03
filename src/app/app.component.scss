@@ -1,0 +1,7 @@
+$test-var3: purple;
+$test-var4: green;
+
+:export {
+  testVar3: $test-var3;
+  testVar4: $test-var4;
+}
